@@ -1,5 +1,7 @@
 # Student-Performance-Classifier-OneR-algorithm
 
+Part 2- https://github.com/nrepesh/Student-Performance-KNN
+
 The OneR algorithm is quite simple but can be quite effective, showing the power of using even basic statistics in many applications. The algorithm is:
 
 For each variable
